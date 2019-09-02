@@ -35,19 +35,19 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
 ## Pertanyaan
 
 1.	Sebutkan dan jelaskan aspek – aspek yang ada pada pemrograman berorientasi objek!<br>
-    a.	Objek
+    a.	Objek<br>
             Objek adalah suatu rangkaian dalam program yang terdiri dari state dan behaviour. Object pada software dimodelkan sedemikian         rupa sehingga mirip dengan objek yang ada di dunia nyata. Objek memiliki state dan behaviour. State adalah ciri-ciri atau               atribut dari objek tersebut. Sedangkan behavior adalah perilaku yang dapat dilakukan oleh objek tersebut.
 
-    b.	Class
+    b.	Class<br>
             Class adalah blueprint atau prototype dari sebuah objek. Class digunakan hanya untuk membuat kerangka dasar. Yang akan kita         pakai nantinya adalah hasil cetakan dari class, yakni “object”.
 
-    c.	Enkapsulasi
+    c.	Enkapsulasi<br>
             Enkapsulasi Kemampuan sebuah objek untuk menempatkan suatu batasan atas propertinya (data atau method). Enkapsulasi mengunci         data dan method secara aman dalam “kapsul” dari sebuah class yang hanya bisa diakses oleh user yang dipercaya (yakni, method             dari class tersebut). Enkapsulasi dapat dianalogikan seperti mengendarai mobil, sopir tidak perlu tahu detail dari suspensi dll.         Mengapa? Karena kita tidak harus tahu implementasi detail suatu komponen jika ingin menggunakannya. Keuntungan enkapsulasi               adalah modularitas, kualitas kode, dan kemudahan maintenance.
 
-    d.	Inheritance
+    d.	Inheritance<br>
             Inheritance atau Pewarisan/Penurunan adalah konsep pemrograman dimana sebuah class dapat “menurunkan” property dan method           yang dimilikinya kepada class lain. Konsep inheritance digunakan untuk memanfaatkan fitur “code reuse” untuk menghindari                 duplikasi kode program. Inheritance memungkinkan kita untuk mengorganisir struktur program dengan natural. Inheritance juga             memungkinkan kita untuk memperluas fungsionalitas program tanpa harus mengubah banyak bagian program.
 
-    e.	Polimorfisme
+    e.	Polimorfisme<br>
             Polimorfisme juga meniru sifat objek di dunia nyata, dimana sebuah objek dapat memiliki bentuk, atau menjelma menjadi bentuk         - bentuk lain. Contoh pada objek LPG dapat diwariskan menjadi LPG 3kg, LPG 12kg, bright gas,dll.
  
 2.	Apa yang dimaksud dengan objek dan apa bedanya dengan class?<br>
