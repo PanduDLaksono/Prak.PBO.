@@ -10,9 +10,9 @@
 
 |  |  |
 |--|--|
-| NIM | ***silakan isi nim di sini*** |
-| Nama Lengkap | ***silakan isi nama lengkap di sini*** |
-| Kelas | TI-2C / TI-2D (**silakan hapus salah satu, sesuaikan dengan kelas Anda**) |
+| NIM | ***1941723006*** |
+| Nama Lengkap | ***Pandu Dwi Laksono*** |
+| Kelas | TI-2C |
 
 
 ## Komponen Penilaian Laporan Praktikum
@@ -43,4 +43,4 @@ Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektua
 
 Ttd,
 
-***(silakan isi nama lengkap di sini)***
+***(Pandu Dwi Laksono)***
