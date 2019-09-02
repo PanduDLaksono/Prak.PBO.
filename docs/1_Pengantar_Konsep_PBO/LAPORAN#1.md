@@ -14,10 +14,10 @@ Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:
 
 ### Percobaan 1
 
-![contoh screenshot](img/Screenshot4.PNG)<br>
-![contoh screenshot](img/Screenshot5.PNG)<br>
-![contoh screenshot](img/Screenshot6.PNG)<br>
-![contoh screenshot](img/Screenshot7.PNG)<br>
+![contoh screenshot](img/Screenshot4.png)<br>
+![contoh screenshot](img/Screenshot5.png)<br>
+![contoh screenshot](img/Screenshot6.png)<br>
+![contoh screenshot](img/Screenshot7.png)<br>
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
 
