@@ -8,7 +8,8 @@ Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:
 
 ## Ringkasan Materi
 
-(berisi catatan penting pribadi selama praktikum berlangsung ataupun menemukan permasalahan khusus saat melakukan percobaan)
+1. Class merukapan rangka, blueprint, rancangan sedangkan objek merupakan hasil dari rancangan tersebut,
+2. Ada 4 pilar dalam OOP diantaranya : capsulation, abstraction, inheritate, dan polimorphime,
 
 ## Percobaan
 
@@ -29,14 +30,15 @@ Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:
 - Pada objek tersebut, kita memasukan nilai atribut dari sepeda tersebut
 - Hasilnya dapat dilihat pada bagian bawah
 
-Berikut untuk link ke file Sepeda : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Sepeda.java)<br>
-Berikut untuk link ke file SepedaDemo : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaDemo.java)
+Berikut untuk link ke file Sepeda : [klik untuk menuju file Sepeda.java](../../src/1_Pengantar_Konsep_PBO/Sepeda.java)<br>
+Berikut untuk link ke file SepedaDemo : [klik untuk menuju file SepedaDemo.java](../../src/1_Pengantar_Konsep_PBO/SepedaDemo.java)
 
 ### Percobaan 2
 
 ![contoh screenshot](img/Screenshot8.png)
+- Pada percobaan ini kita akan membuat class baru berupa SepedaGunung yang merupakan turunan dari class Sepeda
 
-erikut untuk link ke file SepedaGunung : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaGunung.java)
+Berikut untuk link ke file SepedaGunung : [klik untuk menuju file SepedaGunung.java](../../src/1_Pengantar_Konsep_PBO/SepedaGunung.java)
 
 ## Pertanyaan
 
