@@ -65,6 +65,11 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
     ![contoh screenshot](img/Screenshot1.png)<br>
     ![contoh screenshot](img/Screenshot2.png)<br>
     ![contoh screenshot](img/Screenshot3.png)<br>
+    
+6.	Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari nol?<br>
+        Karena class SepedaGunung merupakan turunan dari class Sepeda, jadi kita tidak perlu membuat dari nol. Sehingga class               SepedaGunung dapat mengambil atribut dari super classnya yaitu class Sepeda.
+        
+
 
 
 ## Tugas
