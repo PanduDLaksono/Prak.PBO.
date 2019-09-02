@@ -25,19 +25,18 @@ Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:
 ![contoh screenshot](img/Screenshot7.png)<br>
 
 - Pada gambar diatas merupakan class SepedaDemo yang berfungsi sebagai main class
+- Disini kita membuat objek berupa 2 sepeda yaitu : spd1 dan spd2
+- Pada objek tersebut, kita memasukan nilai atribut dari sepeda tersebut
+- Hasilnya dapat dilihat pada bagian bawah
 
 Berikut untuk link ke file Sepeda : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Sepeda.java)<br>
 Berikut untuk link ke file SepedaDemo : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaDemo.java)
 
 ### Percobaan 2
 
-(berisi penjelasan percobaan 2. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
+![contoh screenshot](img/Screenshot8.png)
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
-
-![contoh screenshot](img/contoh-schot1.PNG)
-
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+erikut untuk link ke file SepedaGunung : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaGunung.java)
 
 ## Pertanyaan
 
