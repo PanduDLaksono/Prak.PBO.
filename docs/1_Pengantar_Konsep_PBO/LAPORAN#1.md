@@ -81,12 +81,21 @@ Berikut untuk link ke file SepedaGunung : [klik untuk menuju file SepedaGunung.j
 
 
 ## Tugas
-
+Disini saya membuat projek bernama LPG. Dimana dalam projek tersebut ada class LPG, MainLPG, dan EaseLPG.
 ![contoh screenshot](img/Screenshot9.png)<br>
 ![contoh screenshot](img/Screenshot10.png)<br>
-![contoh screenshot](img/Screenshot11png)<br>
+
+Pada class LPG berisi delkarasi variable dan method - method yang akan dijalankan. 
+
+![contoh screenshot](img/Screenshot11.png)<br>
 ![contoh screenshot](img/Screenshot12.png)<br>
+
+Pada class MainLPG berisi inputan data pada objek - objek yang telah dibuat guna dipanggil oleh method untuk dijalankan. Disini kita akan menampilkan Nama Tabung, Berat Tabung, Harga, Stok yang Diterima, dan LPG yang Terjual.
+
+
 ![contoh screenshot](img/Screenshot13.png)<br>
+
+Pada class EaseLPG merupakan turunan dari class LPG yang mempunyai input data objek yang hampir sama dengan objek di class MainLPG.
 
 Berikut untuk link ke file LPG : [klik untuk menuju file LPG.java](../../src/1_Pengantar_Konsep_PBO/LPG.java)<br>
 Berikut untuk link ke file MainLPG: [klik untuk menuju file MainLPG.java](../../src/1_Pengantar_Konsep_PBO/MainLPG.java)<br>
@@ -94,7 +103,7 @@ Berikut untuk link ke file EaseLPG: [klik untuk menuju file EaseLPG.java](../../
 
 ## Kesimpulan
 
-Kesimpulan yang saya dapat selama praktikum ini adalah 
+Kesimpulan yang saya dapat selama praktikum ini adalah dalam sebuah projek, harus ada mainclass untuk emnjalankan projek tersebut dan sebuah class untuk menjalankan method - method yang telah diprogram. perintah extend merupakan turunan dari class utama yang berfungsi untuk membuat class terpisah.
 
 ## Pernyataan Diri
 
