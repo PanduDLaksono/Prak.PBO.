@@ -34,7 +34,35 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
 
 ## Pertanyaan
 
-(silakan ketik pertanyaan di sini beserta jawabannya.)
+1.	Sebutkan dan jelaskan aspek – aspek yang ada pada pemrograman berorientasi objek!
+    a.	Objek
+            Objek adalah suatu rangkaian dalam program yang terdiri dari state dan behaviour. Object pada software dimodelkan sedemikian         rupa sehingga mirip dengan objek yang ada di dunia nyata. Objek memiliki state dan behaviour. State adalah ciri-ciri atau               atribut dari objek tersebut. Sedangkan behavior adalah perilaku yang dapat dilakukan oleh objek tersebut.
+
+    b.	Class
+            Class adalah blueprint atau prototype dari sebuah objek. Class digunakan hanya untuk membuat kerangka dasar. Yang akan kita         pakai nantinya adalah hasil cetakan dari class, yakni “object”.
+
+    c.	Enkapsulasi
+            Enkapsulasi Kemampuan sebuah objek untuk menempatkan suatu batasan atas propertinya (data atau method). Enkapsulasi mengunci         data dan method secara aman dalam “kapsul” dari sebuah class yang hanya bisa diakses oleh user yang dipercaya (yakni, method             dari class tersebut). Enkapsulasi dapat dianalogikan seperti mengendarai mobil, sopir tidak perlu tahu detail dari suspensi dll.         Mengapa? Karena kita tidak harus tahu implementasi detail suatu komponen jika ingin menggunakannya. Keuntungan enkapsulasi               adalah modularitas, kualitas kode, dan kemudahan maintenance.
+
+    d.	Inheritance
+            Inheritance atau Pewarisan/Penurunan adalah konsep pemrograman dimana sebuah class dapat “menurunkan” property dan method           yang dimilikinya kepada class lain. Konsep inheritance digunakan untuk memanfaatkan fitur “code reuse” untuk menghindari                 duplikasi kode program. Inheritance memungkinkan kita untuk mengorganisir struktur program dengan natural. Inheritance juga             memungkinkan kita untuk memperluas fungsionalitas program tanpa harus mengubah banyak bagian program.
+
+    e.	Polimorfisme
+            Polimorfisme juga meniru sifat objek di dunia nyata, dimana sebuah objek dapat memiliki bentuk, atau menjelma menjadi bentuk         - bentuk lain. Contoh pada objek LPG dapat diwariskan menjadi LPG 3kg, LPG 12kg, bright gas,dll.
+ 
+2.	Apa yang dimaksud dengan objek dan apa bedanya dengan class?
+    Object adalah suatu rangkaian dalam program yang terdiri dari state dan behaviour. Sedangkan class ialah kerangka dari objek             tersebut. Contoh terdapat objek laptop, class ialah kerangka dari laptop tersebut, terdapat  komponen berupa processor, RAM,             storage, dsb.
+
+3.	Sebutkan salah satu kelebihan utama dari pemrograman berorientasi objek dibandingkan dengan pemrograman struktural!
+    -	Dibandingkan dengan SSAD, waktu pengembangan, level organisasi, ketangguhan,dan penggunaan kembali (reuse) kode program lebih           tinggi dibandingkan dengan metode OOAD (Sommerville, 2000).
+
+4.	Pada class Sepeda, terdapat state/atribut apa saja?
+    Atribut pada class Sepeda :
+    -	Atribut string : merek
+    -	Atribut integer : kecepatan, gear
+
+5.	Tambahkan atribut warna pada class Sepeda!
+
 
 ## Tugas
 
