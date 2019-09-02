@@ -16,8 +16,15 @@ Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:
 
 ![contoh screenshot](img/Screenshot4.png)<br>
 ![contoh screenshot](img/Screenshot5.png)<br>
+
+- Pada percobaan ini kita akan membuat project SepedaDemo.
+- Gambar diatas merupakan class Sepeda, dengan atribut merek dan warna dengan tipe data string, kecepatan dan gear dengan tipe data integer.
+- Kemudian dibuat beberapa method untuk menjalankan/memproses tipe data tadi.
+
 ![contoh screenshot](img/Screenshot6.png)<br>
 ![contoh screenshot](img/Screenshot7.png)<br>
+
+- Pada gambar diatas merupakan class SepedaDemo yang berfungsi sebagai main class
 
 Berikut untuk link ke file Sepeda : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Sepeda.java)<br>
 Berikut untuk link ke file SepedaDemo : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaDemo.java)
