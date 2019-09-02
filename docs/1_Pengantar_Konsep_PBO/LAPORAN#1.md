@@ -14,11 +14,10 @@ Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:
 
 ### Percobaan 1
 
-(berisi penjelasan percobaan 1. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
-
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
-
-![contoh screenshot](img/contoh-schot1.PNG)
+![contoh screenshot](img/Screenshot4.PNG)<br>
+![contoh screenshot](img/Screenshot5.PNG)<br>
+![contoh screenshot](img/Screenshot6.PNG)<br>
+![contoh screenshot](img/Screenshot7.PNG)<br>
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
 
