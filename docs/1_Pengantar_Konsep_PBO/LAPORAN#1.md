@@ -34,7 +34,7 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
 
 ## Pertanyaan
 
-1.	Sebutkan dan jelaskan aspek – aspek yang ada pada pemrograman berorientasi objek!
+1.	Sebutkan dan jelaskan aspek – aspek yang ada pada pemrograman berorientasi objek!<br>
     a.	Objek
             Objek adalah suatu rangkaian dalam program yang terdiri dari state dan behaviour. Object pada software dimodelkan sedemikian         rupa sehingga mirip dengan objek yang ada di dunia nyata. Objek memiliki state dan behaviour. State adalah ciri-ciri atau               atribut dari objek tersebut. Sedangkan behavior adalah perilaku yang dapat dilakukan oleh objek tersebut.
 
@@ -50,10 +50,10 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
     e.	Polimorfisme
             Polimorfisme juga meniru sifat objek di dunia nyata, dimana sebuah objek dapat memiliki bentuk, atau menjelma menjadi bentuk         - bentuk lain. Contoh pada objek LPG dapat diwariskan menjadi LPG 3kg, LPG 12kg, bright gas,dll.
  
-2.	Apa yang dimaksud dengan objek dan apa bedanya dengan class?
+2.	Apa yang dimaksud dengan objek dan apa bedanya dengan class?<br>
     Object adalah suatu rangkaian dalam program yang terdiri dari state dan behaviour. Sedangkan class ialah kerangka dari objek             tersebut. Contoh terdapat objek laptop, class ialah kerangka dari laptop tersebut, terdapat  komponen berupa processor, RAM,             storage, dsb.
 
-3.	Sebutkan salah satu kelebihan utama dari pemrograman berorientasi objek dibandingkan dengan pemrograman struktural!
+3.	Sebutkan salah satu kelebihan utama dari pemrograman berorientasi objek dibandingkan dengan pemrograman struktural!<br>
     -	Dibandingkan dengan SSAD, waktu pengembangan, level organisasi, ketangguhan,dan penggunaan kembali (reuse) kode program lebih           tinggi dibandingkan dengan metode OOAD (Sommerville, 2000).
 
 4.	Pada class Sepeda, terdapat state/atribut apa saja?
