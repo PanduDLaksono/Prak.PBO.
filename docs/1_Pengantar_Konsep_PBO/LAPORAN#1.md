@@ -82,17 +82,19 @@ Berikut untuk link ke file SepedaGunung : [klik untuk menuju file SepedaGunung.j
 
 ## Tugas
 
-(silakan kerjakan tugas di sini beserta `screenshot` hasil kompilasi program. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
+![contoh screenshot](img/Screenshot9.png)<br>
+![contoh screenshot](img/Screenshot10.png)<br>
+![contoh screenshot](img/Screenshot11png)<br>
+![contoh screenshot](img/Screenshot12.png)<br>
+![contoh screenshot](img/Screenshot13.png)<br>
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
-
-![contoh screenshot](img/contoh-schot1.PNG)
-
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+Berikut untuk link ke file LPG : [klik untuk menuju file LPG.java](../../src/1_Pengantar_Konsep_PBO/LPG.java)<br>
+Berikut untuk link ke file MainLPG: [klik untuk menuju file MainLPG.java](../../src/1_Pengantar_Konsep_PBO/MainLPG.java)<br>
+Berikut untuk link ke file EaseLPG: [klik untuk menuju file EaseLPG.java](../../src/1_Pengantar_Konsep_PBO/EaseLPG.java)<br>
 
 ## Kesimpulan
 
-(Berisi simpulan yang telah diperoleh selama praktikum atau belajar pada pertemuan ini)
+Kesimpulan yang saya dapat selama praktikum ini adalah 
 
 ## Pernyataan Diri
 
