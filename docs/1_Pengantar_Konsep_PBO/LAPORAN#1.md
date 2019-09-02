@@ -62,6 +62,9 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
     -	Atribut integer : kecepatan, gear
 
 5.	Tambahkan atribut warna pada class Sepeda!
+    (img/Screenshot (317).png)<br>
+    (img/Screenshot (318).png)<br>
+    (img/Screenshot (319).png)<br>
 
 
 ## Tugas
