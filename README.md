@@ -12,7 +12,7 @@
 |--|--|
 | NIM | ***1941723006*** |
 | Nama Lengkap | ***Pandu Dwi Laksono*** |
-| Kelas | TI-2C |
+| Kelas | TI-2D |
 
 
 ## Komponen Penilaian Laporan Praktikum
