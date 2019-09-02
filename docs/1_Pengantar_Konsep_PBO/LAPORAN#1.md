@@ -19,7 +19,8 @@ Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:
 ![contoh screenshot](img/Screenshot6.png)<br>
 ![contoh screenshot](img/Screenshot7.png)<br>
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+Berikut untuk link ke file Sepeda : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Sepeda.java)<br>
+Berikut untuk link ke file SepedaDemo : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaDemo.java)
 
 ### Percobaan 2
 
