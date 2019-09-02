@@ -36,7 +36,7 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
 
 1.	Sebutkan dan jelaskan aspek – aspek yang ada pada pemrograman berorientasi objek!<br>
     a.	Objek<br>
-            <pre>Objek adalah suatu rangkaian dalam program yang terdiri dari state dan behaviour. Object pada software dimodelkan sedemikian rupa sehingga mirip dengan objek yang ada di dunia nyata. Objek memiliki state dan behaviour. State adalah ciri-ciri atau atribut dari objek tersebut. Sedangkan behavior adalah perilaku yang dapat dilakukan oleh objek tersebut.</pre>
+            <pre>Objek adalah suatu rangkaian dalam program yang terdiri dari state dan behaviour. Object pada software dimodelkan sedemikian rupa sehingga mirip dengan objek yang ada di dunia nyata. Objek memiliki state dan behaviour. State adalah ciri-ciri atau atribut dari objek tersebut. Sedangkan behavior adalah perilaku yang dapat dilakukan oleh objek tersebut.
 
     b.	Class<br>
             Class adalah blueprint atau prototype dari sebuah objek. Class digunakan hanya untuk membuat kerangka dasar. Yang akan kita         pakai nantinya adalah hasil cetakan dari class, yakni “object”.
