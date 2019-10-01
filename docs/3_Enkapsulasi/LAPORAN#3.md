@@ -57,6 +57,7 @@ Berikut untuk link ke file MainMotor : [klik untuk menuju file MotorDemo.java](.
   3. Ubah class Motor sehingga kecepatan maksimalnya adalah 100!
       Jawab :
       ![contoh screenshot](img/percobaan2no3.png)
+      ![contoh screenshot](img/percobaan2no3-2.png)
 
 
 ### Percobaan 3
@@ -105,18 +106,18 @@ Berikut untuk link ke file MainKoperasi : [klik untuk menuju file ](../../src/3_
     - instansiasi method ialah method yang dipanggil saat proses instansiasi
 
 ## Tugas
-1. <br>![contoh screenshot](img/tugas_no1-1.png)
+1. ![contoh screenshot](img/tugas_no1-1.png)
    ![contoh screenshot](img/tugas_no1-2.png)
 
    Berikut merupakan hasil dari program yang ada pada nomor 1
 
-2. <br>![contoh screenshot](img/tugas_no2.png)
+2. ![contoh screenshot](img/tugas_no2.png)
    
    Karena tanda pada if terbalik. jadi hasil yang diatas 30 tetap mengeluarkan output 30
 
-3. <br>![contoh screenshot](img/tugas_no3.png)
+3. ![contoh screenshot](img/tugas_no3.png)
 
-4. <br>![contoh screenshot](img/tugas_no4-1.png)
+4.  ![contoh screenshot](img/tugas_no4-1.png)
        ![contoh screenshot](img/tugas_no4-2.png)
        ![contoh screenshot](img/tugas_no4-3.png)
        ![contoh screenshot](img/tugas_no4-4.png)
