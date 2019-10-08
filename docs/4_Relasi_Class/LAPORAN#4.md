@@ -1,4 +1,4 @@
-# Laporan Praktikum #4 - Relasi dan Class
+# Laporan Praktikum #4 - Relasi Class
 
 ## Kompetensi
 
@@ -265,24 +265,21 @@ Berikut untuk link ke file Main : [klik untuk menuju file](../../src/4_Relasi_Cl
 
  2. Perhatikan potongan kode pada method info() dalam class Kursi. Apa maksud kode tersebut ?
 
-    ...
+    ```java
 
-    if (this.penumpang != null) {
+      if (this.penumpang != null) {
 
         info += "Penumpang: " + penumpang.info() + "\n";
 
-    }
+      }
     
-    ...
+    ```
 
-    Jawab :
-
-        Maksud dari potongan skript diatas yaitu memanggil method info() dari Class Penumpang untuk dimasukan kedalam info() Class Kursi
+    Jawab : maksud dari potongan program diatas ialah jika data penumpang pada class Kursi kosong maka akan memanggil method info() dari class Penumpang
 
  3. Mengapa pada method setPenumpang() dalam class Gerbong, nilai nomor dikurangi dengan angka 1 ?
 
-    Jawab:
-        Karena data yang digunakan berupa array, dan array dimulai dari angka 0.
+    Jawab:Karena data yang digunakan berupa array, dan array dimulai dari angka 0.
 
  4. Instansiasi objek baru budi dengan tipe Penumpang, kemudian masukkan objek baru tersebut pada gerbong dengan gerbong.setPenumpang(budi, 1). Apakah yang terjadi ?
 
